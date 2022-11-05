@@ -1,1 +1,7 @@
 hello shiwans how can i help u
+hey there today is 5/11 
+just checking vi feature to edit textfile/file
+and for quiting type esc and then 
+for save and quit type :wq
+and for quiting without saving type :q!
+
